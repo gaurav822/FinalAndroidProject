@@ -1,1 +1,1 @@
-# FinalAndroidProject
+# Smart Healthcare Mobile Application
