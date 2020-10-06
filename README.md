@@ -1,6 +1,31 @@
 # Smart Healthcare Mobile Application
 
-Smart Healthcare application is deployed on top of android OS. The main aim of the project is to provide realtime health diagnosis for patients. Patients can directly communication doctors and they can even predict the disease they might be suffering from just by entering the symptoms.Booking appointment facility is also one of the important module of application. Firebase realtime database is implemented for this.
+Android Smart Heathcare Application
+
+Features
+-------
+
+- Material Design UI
+- Doctor and Patient Modules
+- Realtime Health Diagnosis through Chat
+- Smart Health Prediction through Symptoms
+- Appointment Booking
+- Firebase database implementation
+- Completely free and ad-free
+
+
+<a href="https://play.google.com/store/apps/details?id=com.blanyal.remindly&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-AC-global-none-all-co-pr-py-PartBadges-Oct1515-1"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/apps/en-play-badge.png" width="400"/></a>
+
+Screenshots
+-------
+
+<img src="https://github.com/blanyal/Remindly/blob/master/screenshots/screenshot1.png" width="400">
+
+<img src="https://github.com/blanyal/Remindly/blob/master/screenshots/screenshot2.png" width="400">
+
+<img src="https://github.com/blanyal/Remindly/blob/master/screenshots/screenshot3.png" width="400">
+ 
+
 
 ## Third Party Libraries Used
 
