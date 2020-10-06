@@ -16,6 +16,8 @@ Features
 Screenshots
 -------
 
+# Patient
+
 <img src="https://github.com/gaurav822/Smart-Healthcare-Application/blob/master/Screenshots/PatientScreens/WhatsApp%20Image%202020-10-06%20at%205.38.19%20PM.jpeg" width="400">
 
 <img src="https://github.com/gaurav822/Smart-Healthcare-Application/blob/master/Screenshots/PatientScreens/WhatsApp%20Image%202020-10-06%20at%205.38.19%20PM%20(1).jpeg" width="400">
@@ -31,6 +33,18 @@ Screenshots
 <img src="https://github.com/gaurav822/Smart-Healthcare-Application/blob/master/Screenshots/PatientScreens/WhatsApp%20Image%202020-10-06%20at%205.38.19%20PM%20(12).jpeg" width="400">
 
 <img src="https://github.com/gaurav822/Smart-Healthcare-Application/blob/master/Screenshots/PatientScreens/WhatsApp%20Image%202020-10-06%20at%205.38.19%20PM%20(14).jpeg" width="400">
+
+# Doctor
+
+<img src="https://github.com/gaurav822/Smart-Healthcare-Application/blob/master/Screenshots/DoctorScreens/WhatsApp%20Image%202020-10-06%20at%205.44.34%20PM%20(1).jpeg" width="400">
+
+<img src="https://github.com/gaurav822/Smart-Healthcare-Application/blob/master/Screenshots/DoctorScreens/WhatsApp%20Image%202020-10-06%20at%205.44.34%20PM%20(2).jpeg" width="400">
+
+<img src="https://github.com/gaurav822/Smart-Healthcare-Application/blob/master/Screenshots/DoctorScreens/WhatsApp%20Image%202020-10-06%20at%205.44.34%20PM%20(3).jpeg" width="400">
+
+<img src="https://github.com/gaurav822/Smart-Healthcare-Application/blob/master/Screenshots/DoctorScreens/WhatsApp%20Image%202020-10-06%20at%205.44.34%20PM%20(4).jpeg" width="400">
+
+<img src="https://github.com/gaurav822/Smart-Healthcare-Application/blob/master/Screenshots/DoctorScreens/WhatsApp%20Image%202020-10-06%20at%205.44.34%20PM.jpeg" width="400">
  
 
 
