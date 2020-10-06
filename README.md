@@ -11,19 +11,16 @@ Features
 - Smart Health Prediction through Symptoms
 - Appointment Booking
 - Firebase database implementation
-- Completely free and ad-free
 
-
-<a href="https://play.google.com/store/apps/details?id=com.blanyal.remindly&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-AC-global-none-all-co-pr-py-PartBadges-Oct1515-1"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/apps/en-play-badge.png" width="400"/></a>
 
 Screenshots
 -------
 
-<img src="https://github.com/blanyal/Remindly/blob/master/screenshots/screenshot1.png" width="400">
+<img src="https://github.com/gaurav822/Smart-Healthcare-Application/blob/master/Screenshots/PatientScreens/WhatsApp%20Image%202020-10-06%20at%205.38.19%20PM.jpeg" width="400">
 
-<img src="https://github.com/blanyal/Remindly/blob/master/screenshots/screenshot2.png" width="400">
+<img src="https://github.com/gaurav822/Smart-Healthcare-Application/blob/master/Screenshots/PatientScreens/WhatsApp%20Image%202020-10-06%20at%205.38.19%20PM%20(1).jpeg" width="400">
 
-<img src="https://github.com/blanyal/Remindly/blob/master/screenshots/screenshot3.png" width="400">
+<img src="https://github.com/gaurav822/Smart-Healthcare-Application/blob/master/Screenshots/PatientScreens/WhatsApp%20Image%202020-10-06%20at%205.38.19%20PM%20(4).jpeg" width="400">
  
 
 
