@@ -22,10 +22,6 @@ Screenshots
 
 <img src="https://github.com/gaurav822/Smart-Healthcare-Application/blob/master/Screenshots/PatientScreens/WhatsApp%20Image%202020-10-06%20at%205.38.19%20PM%20(1).jpeg" width="400">
 
-<img src="https://github.com/gaurav822/Smart-Healthcare-Application/blob/master/Screenshots/PatientScreens/WhatsApp%20Image%202020-10-06%20at%205.38.19%20PM%20(4).jpeg" width="400">
-
-<img src="https://github.com/gaurav822/Smart-Healthcare-Application/blob/master/Screenshots/PatientScreens/WhatsApp%20Image%202020-10-06%20at%205.38.19%20PM%20(5).jpeg" width="400">
-
 <img src="https://github.com/gaurav822/Smart-Healthcare-Application/blob/master/Screenshots/PatientScreens/WhatsApp%20Image%202020-10-06%20at%205.38.19%20PM%20(9).jpeg" width="400">
 
 <img src="https://github.com/gaurav822/Smart-Healthcare-Application/blob/master/Screenshots/PatientScreens/WhatsApp%20Image%202020-10-06%20at%205.38.19%20PM%20(10).jpeg" width="400">
